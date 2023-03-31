@@ -1,0 +1,24 @@
+.card{
+    min-width: 18vw;
+    margin-inline:0.5vw;
+    margin-bottom:1vh
+}
+
+img{
+    max-height: 40vh;
+    object-fit: cover;
+    
+}
+
+.h5{
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+p{
+    font-size: 1vw;
+}
+
+.card a,.card button{
+    font-size: 0.8vw;
+}

@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+ul{
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 2px solid black;
+    padding:25px;
+}
+
+
+.container a, a{
+    text-decoration: none;
+    color: silver;
+}
+
+.container a:hover{
+    color:rgb(126, 126, 126);
+}
+
+.active{
+    font-weight: bolder;
+}
+
+.dropdown-item-text path{
+    stroke:rgb(241, 241, 241);
+}

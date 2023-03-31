@@ -1,0 +1,45 @@
+
+.homeCardContainer{
+    display:flex;
+    flex-direction: row;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    margin-inline: 2vw;
+    background-color: rgba(192, 192, 192, 0.473);
+    padding: 20px;
+        
+}
+
+.headerCards{
+    display:flex;
+    padding-top: 20px;
+    padding-inline: 20px;
+    flex-direction: row;
+    margin-inline:2vw;
+    justify-content: space-between; 
+    margin-top:8vh;
+    background-color: rgba(192, 192, 192, 0.473);
+}
+
+.headerCards button{
+    margin-inline: 0.3vw;
+    text-align: center;
+
+}
+
+.card img{
+    height: 100%;
+    background-image: url("https://static.wikia.nocookie.net/esstarwars/images/b/b0/Tatooine_TPM.png");
+    background-repeat: no-repeat;
+    background-size: 118%;
+    background-position: 50%;
+}
+
+.headerCards button path{
+    stroke: #acacac
+}
+
+.navbar img{
+    height: 60px;
+}
+
