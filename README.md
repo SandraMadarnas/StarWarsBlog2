@@ -1,6 +1,6 @@
 # OPEN IT IN VERCEL: 
 
-https://sw-reading-blog.vercel.app/
+https://proyect-star-wars-9t55.vercel.app/
 
 # OPEN IT IN LOCAL:
 
